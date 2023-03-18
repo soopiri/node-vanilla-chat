@@ -4,7 +4,8 @@
   "description": "nodeJS와 VanillaJS를 활용한 웹 채팅 사이트",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
   },
   "repository": {
     "type": "git",
