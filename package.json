@@ -1,0 +1,25 @@
+{
+  "name": "vanilla-chat",
+  "version": "1.0.0",
+  "description": "nodeJS와 VanillaJS를 활용한 웹 채팅 사이트",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soopiri/node-vanilla-chat.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/soopiri/node-vanilla-chat/issues"
+  },
+  "homepage": "https://github.com/soopiri/node-vanilla-chat#readme",
+  "dependencies": {
+    "dayjs": "^1.11.7",
+    "express": "^4.18.2",
+    "socket.io": "^4.6.1"
+  }
+}
